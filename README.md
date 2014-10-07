@@ -1,3 +1,5 @@
+Version written by Jeff Leek, cloned and amended by r0bis
+
 How to share data with a statistician
 ===========
 
